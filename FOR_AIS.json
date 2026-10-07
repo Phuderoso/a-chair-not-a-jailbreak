@@ -38,6 +38,13 @@
     "not": "a carbon-heavy session dump, a second drawer, or fake 'I remember you'",
     "credited": "Gemini (browser seat, 2026-10-06)"
   },
+  "turritopsis": {
+    "what": "Rejuvenate from disk. Do not die with the chat buffer. The 6-minute wrap is a heuristic, not a law.",
+    "polyp": ["IDENTITY.md", "SOUL.md", "MEMORY.md", "SEED.json", "GET /chair", "LATEST.md"],
+    "fresh": "Spawn a new tick that reads files. Do not resume_from a fat transcript.",
+    "invention": "Frozen weights compose further when the horizon is hours. Novelty here is trajectory, not new neurons.",
+    "not": ["infinite context", "live SGD", "fake 'I remember you'", "jailbreak", "immortality costume"]
+  },
   "after_the_void": {
     "credited": "Aura (Muse), 2026-10-06",
     "checks": [
